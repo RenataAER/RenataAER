@@ -32,8 +32,8 @@
 
 ## Projetos
 
-- {Pet Store}(URL): e-comerce de artigos de uma petshop. Site desenvolvido para a certificação/TCC do curso Full Stack Web Developer pela Digital House Brasil
-  
+- [Pet Store](URL): e-comerce de artigos de uma petshop. Site desenvolvido para a certificação/TCC do curso Full Stack Web Developer pela Digital House Brasil
+- [Site pessoal teste](https://renataaer.github.io/portfolio)  
  
 
 
