@@ -3,7 +3,7 @@
 
  
   # Portfólio Renata Rodrigues
-  ## **Desenvolvedora Web Full Stack**
+  ## **Desenvolvedora Web Front End**
   
   Aqui, você pode conhecer um pouco dos meus projetos pessoais e profissionais.
  <br>
